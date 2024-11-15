@@ -40,14 +40,15 @@ The dashboard is built using multiple CSV files containing crucial data related 
 
 ## How to Use the Dashboard
 1. Access the Dashboard: You can view the interactive dashboard on my Tableau Public profile. Here's the link to access it:
-Amazon Shipping Analytics Dashboard
+https://public.tableau.com/app/profile/rahul.singh5386/viz/AmazonShippingAnalytics_16809746926400/Dashboard1
 
 2. Interactive Filters: Once the dashboard is loaded, use the month and year selector to filter data according to your needs. This will dynamically update the visualizations to show the relevant shipping information.
 
 3. Insights and Actions: Use the insights from the outstanding orders tracker and the shipping destinations overview to assess performance and take appropriate actions, such as reallocating resources or adjusting shipment schedules.
 
-Screenshot
-You can view or download the PDF containing the screenshot of the dashboard from the following link:
+Screenshot:
+
+![Amazon Shipping](https://github.com/user-attachments/assets/61e084c7-bcea-4048-8edd-50c0b5597c77)
 
 
 
