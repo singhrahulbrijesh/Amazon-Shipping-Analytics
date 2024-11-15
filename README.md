@@ -26,17 +26,17 @@ With this dashboard, the Shipping Manager can quickly gauge performance metrics 
 ## Data Sources
 The dashboard is built using multiple CSV files containing crucial data related to Amazon Shipping. These files provide detailed records about orders, products, customers, regions, and more. The data is periodically updated to ensure the dashboard reflects the latest shipping trends. Below are the CSV files included in the project:
 
-•	categories.csv: Contains product category information.
-•	customers.csv: Information about customers placing orders.
-•	employee_territories.csv: Employee and territory assignment data.
-•	employees.csv: Details about employees involved in shipping and logistics.
-•	order_details.csv: Detailed breakdown of each order, including quantity and status.
-•	orders.csv: Overall order data with shipping and processing details.
-•	products.csv: Information on the products being shipped.
-•	regions.csv: Geographic regions involved in shipping.
-•	shippers.csv: Details about the shipping companies and carriers.
-•	suppliers.csv: Information about suppliers involved in providing goods.
-•	territories.csv: Data related to territories where shipments are being delivered.
+- `categories.csv`: Contains product category information.
+- `customers.csv`: Information about customers placing orders.
+- `employee_territories.csv`: Employee and territory assignment data.
+- `employees.csv`: Details about employees involved in shipping and logistics.
+- `order_details.csv`: Detailed breakdown of each order, including quantity and status.
+- `orders.csv`: Overall order data with shipping and processing details.
+- `products.csv`: Information on the products being shipped.
+- `regions.csv`: Geographic regions involved in shipping.
+- `shippers.csv`: Details about the shipping companies and carriers.
+- `suppliers.csv`: Information about suppliers involved in providing goods.
+- `territories.csv`: Data related to territories where shipments are being delivered.
 
 ## How to Use the Dashboard
 1. Access the Dashboard: You can view the interactive dashboard on my Tableau Public profile. Here's the link to access it:
