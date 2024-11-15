@@ -47,15 +47,9 @@ Amazon Shipping Analytics Dashboard
 3. Insights and Actions: Use the insights from the outstanding orders tracker and the shipping destinations overview to assess performance and take appropriate actions, such as reallocating resources or adjusting shipment schedules.
 
 Screenshot
-Here’s a preview of the Amazon Shipping Analytics Dashboard:
+You can view or download the PDF containing the screenshot of the dashboard from the following link:
 
-<img src="https://github.com/singhrahulbrijesh/Amazon-Shipping-Analytics/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
-You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/wendy.minai/viz/AmazonShippingAnalytics_16727658180260/Dashboard1
-
-##  Amazon Shipping Analytics Dashboard
-
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 
 
