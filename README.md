@@ -1,33 +1,55 @@
-# What is Tableau ?  
+## Amazon Shipping Analytics Dashboard
 
-Tableau software is one of the fastest growing data visualization tools which is currently being used in the Business intelligence industry.  
-It is the best way to change or transform the raw set of data into an easily understandable format with zero technical skills and coding knowledge.   
+## Overview
+Amazon Shipping is a global logistics service that handles the shipping of a wide range of Fast Moving Consumer Goods (FMCG). The Shipping Manager, responsible for overseeing the smooth flow of shipments, previously lacked a clear and detailed overview of the shipping operations on a monthly basis.
 
-Tableau is basically a data visualization tool which provides pictorial and graphical representations of data.
+To address this gap, an interactive Amazon Shipping Analytics Dashboard was created to provide real-time insights into shipping performance. This dashboard allows the Shipping Manager to easily track order volumes, shipping statuses, and destinations across different time periods. It enables quick decision-making based on up-to-date data, thus improving operational efficiency.
 
-## What is Tableau used for?  
+## Objective
+The primary objective of the dashboard is to provide an interactive platform where the Shipping Manager can:
 
-Usage of Tableau software are listed below:
+Select different months and years to view shipping performance.
+Track the number of outstanding orders on a daily basis.
+Identify shipping destinations and monitor where orders need to be shipped.
+Make data-driven decisions based on shipping analytics to improve logistics and overall performance.
+With this dashboard, the Shipping Manager can quickly gauge performance metrics and ensure that operations stay on track without having to manually sift through raw data or reports.
 
-- Tableau software is used to translate queries into visualization.  
-- It is also used for managing metadata.  
-- Tableau software imports data of all sizes and ranges.  
-- For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
-- Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
+## Features
+1. Month and Year Selector: The dashboard allows the user to filter shipping data by selecting the desired month and year, providing flexibility in tracking historical data.
 
+2. Outstanding Orders Tracker: A daily breakdown of how many orders are still outstanding, enabling the Shipping Manager to quickly assess the backlog.
 
-# Amazon Shipping Analytics
+3. Shipping Destination Overview: Insights into where the orders need to be shipped, helping logistics teams streamline their processes and ensure timely delivery.
 
-###  Overview 
+4. Interactive Visualizations: Various data visualizations, including bar charts, heat maps, and line graphs, to display shipping performance metrics in a user-friendly manner.
 
-Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.
+## Data Sources
+The dashboard is built using multiple CSV files containing crucial data related to Amazon Shipping. These files provide detailed records about orders, products, customers, regions, and more. The data is periodically updated to ensure the dashboard reflects the latest shipping trends. Below are the CSV files included in the project:
 
-The Shipping Manager doesn't have much visibility and doesn't know how many orders are processed and shipped on a monthly basis.
-He would like a dashboard of this where he selects a month and can tell how many orders are outstanding a day and where they should be shipped.
+•	categories.csv: Contains product category information.
+•	customers.csv: Information about customers placing orders.
+•	employee_territories.csv: Employee and territory assignment data.
+•	employees.csv: Details about employees involved in shipping and logistics.
+•	order_details.csv: Detailed breakdown of each order, including quantity and status.
+•	orders.csv: Overall order data with shipping and processing details.
+•	products.csv: Information on the products being shipped.
+•	regions.csv: Geographic regions involved in shipping.
+•	shippers.csv: Details about the shipping companies and carriers.
+•	suppliers.csv: Information about suppliers involved in providing goods.
+•	territories.csv: Data related to territories where shipments are being delivered.
 
-He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
+## How to Use the Dashboard
+1. Access the Dashboard: You can view the interactive dashboard on my Tableau Public profile. Here's the link to access it:
+Amazon Shipping Analytics Dashboard
 
-Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
+2. Interactive Filters: Once the dashboard is loaded, use the month and year selector to filter data according to your needs. This will dynamically update the visualizations to show the relevant shipping information.
+
+3. Insights and Actions: Use the insights from the outstanding orders tracker and the shipping destinations overview to assess performance and take appropriate actions, such as reallocating resources or adjusting shipment schedules.
+
+Screenshot
+Here’s a preview of the Amazon Shipping Analytics Dashboard:
+
+<img src="https://github.com/singhrahulbrijesh/Amazon-Shipping-Analytics/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/wendy.minai/viz/AmazonShippingAnalytics_16727658180260/Dashboard1
 
